@@ -55,9 +55,9 @@
 	var levelMessages =
 	[
 		/*  0 */ "",        
-        /*  1 : Recess  */ "When our dreams have been shattered",
+        /*  1 : Recess  */ "I remembered you used to say",
         /*  2 : Jump    */ "even small actions can have purpose",
-        /*  3 : Jump    */ "That was easy",
+        /*  3 : Jump    */ "I am now closer",
         /*  4 : Jump    */ "Now a little faster",
         /*  5 : Jump    */ "You got this",
         /*  6 : Recess  */ "Sometimes we can overcome our problems",
